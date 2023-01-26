@@ -1,6 +1,6 @@
 # Prueba Tecnica Crud-Estudiantes
 
-Esta Prueba tecnica fue realizada con las isguientes herramientas
+Esta Prueba tecnica fue realizada con las siguientes herramientas
 
 ### +Html
 ### +JavaScript
